@@ -7,7 +7,7 @@ Hi Hans, I made a docker/django hello-world app for you to play with.
 
 * [setting up the container](https://docs.docker.com/compose/django/)
 
-* [django hello world page](dfpp.readthedocs.io/en/latest/chapter_01.html)
+* [django hello world page](https://dfpp.readthedocs.io/en/latest/chapter_01.html)
 
 ## How to run it
 
